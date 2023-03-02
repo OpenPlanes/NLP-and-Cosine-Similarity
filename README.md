@@ -6,9 +6,13 @@ Natural language processing helps computers communicate with humans in their own
 The goal of this was to use NLP to categorize characters from Shakespeare using Count Vectorizer and TFIDFVectorizer. If I can cluster data to show which plays are horrors, comedies, romance. It might give people a better idea of what to expect
 
 Programming :Python
+
 Webscraping :beautifulSoup
+
 Data Visualisation :Tableau
+
 Natural Language Processing : NLTK
+
 Other Packages : sklearn, cosine_similarity, pandas, re, np
 
 Image of Count Vectorizer
