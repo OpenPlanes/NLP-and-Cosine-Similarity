@@ -3,7 +3,13 @@
 
 Natural language processing helps computers communicate with humans in their own language and scales other language-related tasks. For example, NLP makes it possible for computers to read text, hear speech, interpret it, measure sentiment and determine which parts are important. Today’s machines can analyze more language-based data than humans, without fatigue and in a consistent, unbiased way. Considering the staggering amount of unstructured data that’s generated every day, from medical records to social media, automation will be critical to fully analyze text and speech data efficiently.
 
-The goal of this was to use NLP to categorize characters from Shakespeare using Count Vectorizer and TFIDFVectorizer
+The goal of this was to use NLP to categorize characters from Shakespeare using Count Vectorizer and TFIDFVectorizer. If I can cluster data to show which plays are horrors, comedies, romance. It might give people a better idea of what to expect
+
+Programming :Python
+Webscraping :beautifulSoup
+Data Visualisation :Tableau
+Natural Language Processing : NLTK
+Other Packages : sklearn, cosine_similarity, pandas, re, np
 
 Image of Count Vectorizer
 ![CountVectorize](https://user-images.githubusercontent.com/106100235/222502658-90428beb-91c3-4b3a-883f-44d0016f5d91.png)
